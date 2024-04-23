@@ -1,0 +1,7 @@
+install laravel
+breeze
+laravel blueprint
+
+draft.yaml
+php artisan blueprint:build
+
